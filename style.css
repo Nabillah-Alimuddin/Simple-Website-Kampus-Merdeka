@@ -1,0 +1,58 @@
+body {
+    line-height: 1.6;
+    margin: 20px;
+    padding: 0;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: black;
+    margin: 10px 0;
+}
+
+p {
+    text-align: justify;
+}
+
+b {
+    font-weight: bold;
+}
+
+img {
+    display: block;
+    margin: 10px 0;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 5px;
+
+    padding: 20px;
+}
+
+
+.gray-box {
+    background-color: #ece7e7; 
+    padding: 10px; 
+    border-radius: 5px;
+}
+
+span.highlight-yellow {
+    background-color: yellow;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
