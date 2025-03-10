@@ -32,14 +32,6 @@ img {
     margin: 10px 0;
 }
 
-.card{
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    border-radius: 5px;
-
-    padding: 20px;
-}
-
-
 .gray-box {
     background-color: #ece7e7; 
     padding: 10px; 
